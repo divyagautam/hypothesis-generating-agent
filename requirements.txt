@@ -1,0 +1,8 @@
+lxml
+pandas
+networkx
+requests
+openai
+langchain
+matplotlib
+langchain-community
